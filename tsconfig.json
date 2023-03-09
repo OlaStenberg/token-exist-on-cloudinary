@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "lib": ["DOM"],
+
+    },
+    "include": ["src/**/*"],
+    "exclude": ["**/*.test.ts"]
+  }
+  
